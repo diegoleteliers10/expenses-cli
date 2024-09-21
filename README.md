@@ -69,3 +69,8 @@ Las contribuciones son bienvenidas. Siéntete libre de abrir un issue o enviar u
 ## Licencia
 
 Este proyecto está bajo la Licencia MIT.
+
+
+## Haz tu proyecto
+
+Quieres practicar proyectos de este tipo? Visita <https://roadmap.sh/projects/expense-tracker> para ver todo acerca de este proyecto y de muchos mas.
